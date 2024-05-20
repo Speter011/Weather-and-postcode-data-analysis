@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ac.uk.napier.set07110Coursework","c":"WeatherStation","l":"getLat()"},{"p":"ac.uk.napier.set07110Coursework","c":"WeatherStation","l":"getLon()"},{"p":"ac.uk.napier.set07110Coursework","c":"WeatherStation","l":"WeatherStation(double, double)","url":"%3Cinit%3E(double,double)"}]
